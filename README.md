@@ -4,7 +4,7 @@
 
 ### A Pomodoro-style productivity app, designed to help you stay focused and on track with your study/work sessions
 
-### HaloFocus is [live!](https://halofocus.netlify.app "Halo Focus")
+### HaloFocus is live [here.](https://halofocus.netlify.app "Halo Focus")
 With a clean, distraction-free UI, and an array of Ambient Sounds, HaloFocus assists your workflow and provides tools like Breathing Exercises and To-Do lists to enhance productivity.
 
 ![Halo UI](https://raw.githubusercontent.com/makersmecca/Halo-Focus-Pomodoro/refs/heads/master/Halo%20Focus%20UI.png)
