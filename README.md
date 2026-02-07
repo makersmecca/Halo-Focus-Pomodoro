@@ -40,4 +40,4 @@ With a clean, distraction-free UI, and an array of Ambient Sounds, HaloFocus ass
 - Vite
 - Netlify
   
-![](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
+<img src="https://github.com/makersmecca/DiscordFileStore/blob/filestore/src/footercat.svg"/>
